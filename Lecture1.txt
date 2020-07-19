@@ -1,0 +1,6 @@
+python program: www.python.org
+Editor: Visual Studio Code
+IDE(editor+code executor): Pycharm (community version - jetbrains), Atom
+Machine Learning: JupyterNotebook, GoogleCollaboration
+
+pythontutor.com/visual
